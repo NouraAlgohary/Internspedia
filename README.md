@@ -1,5 +1,4 @@
 # Cartoonify an Image
-It's a task from my Machine Learning Internship at Intern'spedia.
-
+Transform image into its cartoon.<br/>
 **Modules used**<br/>
 OpenCV, Numpy, Imageio, OS, Matplotlib, PIL, and ipywidgets
