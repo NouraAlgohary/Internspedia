@@ -1,4 +1,4 @@
 # Cartoonify an Image
-Transform image into its cartoon.<br/>
+Transform the image into a cartoon<br/>
 ### Modules used
 OpenCV, Numpy, Imageio, OS, Matplotlib, PIL, and ipywidgets
